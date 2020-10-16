@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{9708674B-414A-CD97-D805-F4BC85648D13}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "hello",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
